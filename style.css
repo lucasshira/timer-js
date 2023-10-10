@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-image: radial-gradient(circle, #333333 0%, #4d4d4d 100%);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1.3rem;
     line-height: 1.5em;
